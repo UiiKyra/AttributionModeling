@@ -4,5 +4,6 @@ Performed multi-touch attribution modeling and customer journey analysis on Goog
 
 **Tools:** Google analytics, BigQuery, SQL, Heuristic Models, Markov Chain, Seaborn, Plotly
 
-**Code** is available [here](https://www.example.com). 
-**Slide** is available [here](https://www.example.com).
+*Code* is available [here](https://github.com/UiiKyra/AttributionModeling/blob/master/Multi_Touch_Attribution_and_Customer_Journey_Analysis.ipynb). 
+
+*Slide* is available [here](https://github.com/UiiKyra/AttributionModeling/blob/master/Multi-touch%20attribution%20and%20customer%20journey.pdf).
